@@ -17,6 +17,7 @@ menu:
   categories: /categories/ || th
   tags: /tags/ || tags
   寓言: /categories/fables/ || coffee
+  关于我: /about/  || user
   # about:
   #   default: / || user
   #   aboutsite: /about/  || user
