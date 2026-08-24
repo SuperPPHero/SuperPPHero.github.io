@@ -6,10 +6,9 @@ sidebar: false   # 可选：隐藏侧边栏
 comments: false  # 可选：关闭评论
 ---
 
-<div style="text-align: center; padding: 20px 0;">
-  <h1 style="font-size: 2.5em;">📖 寓言故事</h1>
-  <p style="color: #888; font-size: 1.2em;">短小故事，漫长回响</p>
-</div>
+# 📖 寓言故事
+
+> 短小故事，漫长回响
 
 ## 关于这个栏目
 
