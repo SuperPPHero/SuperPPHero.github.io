@@ -1,5 +1,6 @@
 ---
 title: C学习记录
+date: 2026-08-20 10:05:23
 tags: [学习, C语言]
 categories: [学习]
 ---
