@@ -31,8 +31,8 @@ menu:
 
 # 社交链接
 social:
-  GitHub主页: https://github.com/SuperPPHero || github || "#586069"
-  B站空间: https://space.bilibili.com/393782280 || bilibili || "#fb7299"
+  github: https://github.com/SuperPPHero || github || "#586069"
+  bilibili: https://space.bilibili.com/393782280 || bilibili || "#fb7299"
   music: https://music.163.com/#/user/home?id=12592093314 || cloud-music || "#e60026"
   # 邮箱等
 
